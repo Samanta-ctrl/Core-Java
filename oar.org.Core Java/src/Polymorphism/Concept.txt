@@ -30,3 +30,8 @@ One entity showing  a behavior of different entity is known as Polymorphism.
  	-->		When there are multiple implementation provided by the service provider, at that time we should use
  		Polymorphism.
  	
+  # Advantages:-
+ 	--> 1. Code reusability.
+ 		2. Abstraction.
+ 		3. Loose Coupling.
+ 		4. User Friendly.
