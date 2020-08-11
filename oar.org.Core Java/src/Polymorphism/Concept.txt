@@ -26,3 +26,7 @@ One entity showing  a behavior of different entity is known as Polymorphism.
  		
  		** Overriding is used to achieved the run time polymorphism.
  	
+  (Q.) When we should use polymorphism?
+ 	-->		When there are multiple implementation provided by the service provider, at that time we should use
+ 		Polymorphism.
+ 	
