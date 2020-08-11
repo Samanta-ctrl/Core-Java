@@ -1,0 +1,28 @@
+One entity showing  a behavior of different entity is known as Polymorphism.
+ 	
+ 	Example- 	A person at the same time can have different characteristic. 
+ 			Like a man at the same time is a father, a husband, an employee.
+ 	 		So the same person posses different behaviour in different situations. 
+ 	 		This is called polymorphism.
+ 	 		
+ 	Polymorphism is considered as one of the important features of Object Oriented Programming.
+ 	Polymorphism allows us to perform a single action in different ways. 
+ 	In other words, polymorphism allows you to define one interface and have multiple implementations. 
+ 	The word “poly” means many and “morphs” means forms, So it means many forms.
+ 	
+ 	There are two types of polymorphism...
+ 		1> Compile time polymorphism.
+ 		2> Runtime polymorphism.
+ 		
+ 	# Compile time Polymorphism:-
+ 	--> 	Call to the overloaded method is resolved at the Compile time ,according to the argument type
+ 		is known as Compile time polymorphism.
+ 		
+ 		** Overloading is used to achieved the compile time polymorphism.
+ 	
+ 	#Run Time Polymorphism:-
+ 	-->		Call to the overriding method is resolved at the run time ,according the instance type 
+ 		is knwon as Run time polymorphism.
+ 		
+ 		** Overriding is used to achieved the run time polymorphism.
+ 	
