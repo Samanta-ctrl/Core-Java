@@ -29,12 +29,12 @@ public class RTP_2
 	public static void main(String[] args) 
 	{
 		Man m1=new Father();
-		m1.male();
+		m1.male(); //male() will decide at the runtime, that which Class method it will call
 		
 		Man m2=new Employee();
-		m2.male();
+		m2.male(); //male() will decide at the runtime, that which Class method it will call
 		
 		Man m=new Man();
-		m.male();
+		m.male(); //male() will decide at the runtime, that which Class method it will call
 	}
 }
