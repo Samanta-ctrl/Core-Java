@@ -1,5 +1,5 @@
 /*Exception Propagation:-
-		Inside a method, if an exception raised and if we are not handled that exception, then the exception will be propagated to the called method.
+		Inside a method, if an exception raised and if we are not handled that exception, then the exception will be propagated to the caller method.
   Then caller method will be the responsible to handle the exception. This is known as Exception Propagation. */
 
 
